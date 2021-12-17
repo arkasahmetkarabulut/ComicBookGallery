@@ -1,4 +1,4 @@
-﻿# example-aspnet-mvc
+﻿# ComicBookGallery-Example-Mvc-Project
 
 ![screenshot1](https://github.com/arkasahmetkarabulut/ComicBookGallery/blob/master/screenshot1.png)
 ![screenshot2](https://github.com/arkasahmetkarabulut/ComicBookGallery/blob/master/screenshot2.png)
