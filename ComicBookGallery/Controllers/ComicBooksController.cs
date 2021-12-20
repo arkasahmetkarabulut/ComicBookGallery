@@ -36,7 +36,7 @@ namespace ComicBookGallery.Controllers
             var comicBook = _comicBookRepository.GetComicBook((int)id);
 
             // strongly typed view - by putting object into the view vs. ViewBag.ComicBook = comicBook;
-            return View(comicBook);  // will automatically look in the views folder
+            return View(comicBook);  // will automatically look in the views folder test
         }
 
         public ActionResult Detail2()
